@@ -4,6 +4,7 @@
 #define f1(min,max) for(ll j=min;j<=max;j++)
 #define pair1 pair<ll,ll>
 #define mk make_pair
+#define m 1000000007
 using namespace std;
 int main()
 {
